@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LoginAppNav</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Enter Credentials</string>
+    <string name="password">Enter password</string>
+    <string name="login">Register</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="logout">Logout</string>
+    <string name="enter_email">Enter Email ID</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="TextViewLogin">Already registered? Sign in here</string>
+    <string name="Text">Welcome</string>
+    <string name="Logout_button">Logout</string>
+</resources>

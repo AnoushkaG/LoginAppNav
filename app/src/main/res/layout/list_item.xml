@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--LinearLayout
+
+        android:layout_width="wrap_content"
+        android:focusable="false"
+        android:descendantFocusability="blocksDescendants"
+        android:layout_height="wrap_content"
+        android:id="@+id/itemid"
+        android:clickable="false"
+        android:focusableInTouchMode="false"-->
+
+        <TextView
+            android:id="@+id/tx_id"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+
+            android:layout_marginTop="50dp"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:text="----- "
+            android:textColor="@color/colorAccent"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tx_name"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_toEndOf="@id/tx_id"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:text="----- "
+            android:textColor="@color/colorAccent"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tx_email"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_toRightOf="@id/tx_name"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:text="----- "
+            android:textColor="@color/colorAccent"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    <!--/LinearLayout-->
+</RelativeLayout>

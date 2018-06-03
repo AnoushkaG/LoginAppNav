@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "321350087981",
+    "firebase_url": "https://loginappnav.firebaseio.com",
+    "project_id": "loginappnav",
+    "storage_bucket": "loginappnav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321350087981:android:8f87839f1b65ff1b",
+        "android_client_info": {
+          "package_name": "com.example.anoushka.loginappnav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321350087981-3srjtkfk516k6q0v2lasg5ou9seio946.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "321350087981-3srjtkfk516k6q0v2lasg5ou9seio946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClP8R695Ko9qBfICkgdEuk5rpM_eLJNyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
